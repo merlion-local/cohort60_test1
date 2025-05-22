@@ -1,1 +1,5 @@
+<<<<<<< HEAD
     file 2
+=======
+wewewew
+>>>>>>> bfb968ccf5c42169185e0bb5d3067d2caa3dd1c6

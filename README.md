@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 # cohort60_test1
 
-some updates
+some important updates here!
+=======
+Работа с Git !
+>>>>>>> feature/conflict-test

@@ -5,3 +5,5 @@ some important updates here!
 =======
 Работа с Git !
 >>>>>>> feature/conflict-test
+
+NEW CHANGES PART 5

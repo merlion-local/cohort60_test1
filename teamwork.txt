@@ -1,3 +1,5 @@
+Строка от второго студента (main)
+Строка от первого студента (feature/teamwork)
 
 This is a new file teamwork.txt
 
